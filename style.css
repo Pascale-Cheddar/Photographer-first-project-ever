@@ -1,0 +1,61 @@
+body {
+  font-family: 'Old Standard TT', Serif;
+  width: 100%;
+  text-align: center;
+  margin: 0px;
+}
+
+.title {
+  font-family: 'Old Standard TT', Serif;
+  font-weight: bold;
+  text-align: center;
+}
+.sub-header {
+  font-weight: bold;
+}
+
+#horizontal-list {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.slider {
+  padding-top: 15px;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 500px;
+ 
+}
+
+.images {
+  width: 100%;
+  height: auto;
+}
+
+.nav-item {
+  display: inline;
+  list-style: none;
+  margin-right: 10px;
+  padding: 5px 10px;
+  background: #fff;
+  list-style-type: none;
+  font-weight: bold;
+  
+}
+
+.nav-list {
+  font-family: 'Rubik', Sans-Serif;
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange;
+}
